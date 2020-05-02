@@ -1,0 +1,7 @@
+C:\Users\Gps\Documents\sem4\#c\FinalExam_GurpartapGill\FinalExam_GurpartapGill\bin\FinalExam_GurpartapGill.dll.config
+C:\Users\Gps\Documents\sem4\#c\FinalExam_GurpartapGill\FinalExam_GurpartapGill\bin\FinalExam_GurpartapGill.dll
+C:\Users\Gps\Documents\sem4\#c\FinalExam_GurpartapGill\FinalExam_GurpartapGill\bin\FinalExam_GurpartapGill.pdb
+C:\Users\Gps\Documents\sem4\#c\FinalExam_GurpartapGill\FinalExam_GurpartapGill\obj\Debug\FinalExam_GurpartapGill.csprojAssemblyReference.cache
+C:\Users\Gps\Documents\sem4\#c\FinalExam_GurpartapGill\FinalExam_GurpartapGill\obj\Debug\FinalExam_GurpartapGill.csproj.CoreCompileInputs.cache
+C:\Users\Gps\Documents\sem4\#c\FinalExam_GurpartapGill\FinalExam_GurpartapGill\obj\Debug\FinalExam_GurpartapGill.dll
+C:\Users\Gps\Documents\sem4\#c\FinalExam_GurpartapGill\FinalExam_GurpartapGill\obj\Debug\FinalExam_GurpartapGill.pdb
